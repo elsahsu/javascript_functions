@@ -13,16 +13,16 @@ Create a function called buildTriangle() that will accept an input (the triangle
 buildTriangle(10);
 Returns:
 
-* 
-* * 
-* * * 
-* * * * 
-* * * * * 
-* * * * * * 
-* * * * * * * 
-* * * * * * * * 
-* * * * * * * * * 
-* * * * * * * * * *
+    * 
+    * * 
+    * * * 
+    * * * * 
+    * * * * * 
+    * * * * * * 
+    * * * * * * * 
+    * * * * * * * * 
+    * * * * * * * * * 
+    * * * * * * * * * *
 
 Q5-4:
 Write an anonymous function expression that stores a function in a variable called "laugh" and outputs the number of "ha"s that you pass in as an argument.
